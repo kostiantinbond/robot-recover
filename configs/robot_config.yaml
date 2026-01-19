@@ -1,0 +1,13 @@
+motor_parameters:
+  max_speed: 100
+  min_speed: 0
+  acceleration: 10
+  deceleration: 10
+
+sensor_thresholds:
+  temperature: 75
+  humidity: 60
+  pressure: 1013
+
+robot_name: "MyRobot"
+robot_version: "1.0.0"

@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="robot_project" type="main" name="robot_node" output="screen">
+    <param name="config_file" value="$(find robot_project)/configs/robot_config.yaml"/>
+  </node>
+</launch>
