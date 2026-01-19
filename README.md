@@ -1,4 +1,4 @@
-# Robot Project
+# Recovery Robot
 
 ## Overview
 This project is a simulation of a robotic system, designed to manage and control various components such as motors and sensors. The robot's functionality is encapsulated within classes that handle specific tasks, allowing for modular development and testing.
